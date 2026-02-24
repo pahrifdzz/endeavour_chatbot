@@ -38,7 +38,7 @@ Endeavour AI adalah bot Discord cerdas yang ditenagai oleh model **Gemini 2.5 Fl
    python main.py
 
 📸**Dokumentasi**
-**Mention Response**
+<br>**Mention Response**
 <img width="990" height="298" alt="image" src="https://github.com/user-attachments/assets/6c61cc1f-be08-4b2f-a9db-e3da78a5997f" />
 
 **DM Response**
