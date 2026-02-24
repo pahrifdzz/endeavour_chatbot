@@ -22,3 +22,25 @@ Endeavour AI adalah bot Discord cerdas yang ditenagai oleh model **Gemini 2.5 Fl
    ```bash
    git clone [https://github.com/username-anda/endeavour-ai.git](https://github.com/username-anda/endeavour-ai.git)
    cd endeavour-ai
+   
+2. **Install Dependencies**
+   ```bash
+   pip install discord.py python-dotenv requests
+   
+3. **Konfigurasi Environment**
+   Buat file .env di folder root dan masukkan API Key Anda:
+   ```bash
+   DISCORD_TOKEN=your_discord_bot_token
+   GEMINI_API_KEY=your_gemini_api_key
+
+4. **Jalankan Bot**
+   ```bash
+   python main.py
+
+📸**Dokumentasi**
+**Mention Response**
+<img width="990" height="298" alt="image" src="https://github.com/user-attachments/assets/6c61cc1f-be08-4b2f-a9db-e3da78a5997f" />
+
+**DM Response**
+<img width="937" height="272" alt="image" src="https://github.com/user-attachments/assets/d397966f-47f9-4402-bdb0-a68fa0630c9b" />
+
